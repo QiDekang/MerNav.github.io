@@ -1,0 +1,30 @@
+# JanusVLN Project Configuration
+title: JanusVLN
+url: https://github.com/MIV-XJTU/JanusVLN
+
+# Site settings
+timezone: UTC
+future: true
+highlighter: rouge
+
+# Markdown processing
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+# Navigation
+links:
+  - title: JanusVLN
+    url: /JanusVLN/
+  - title: GitHub
+    url: https://github.com/MIV-XJTU/JanusVLN
+    external: true
+  - title: Paper
+    url: https://github.com/MIV-XJTU/JanusVLN # Placeholder, user to update with arXiv link
+    external: true
+
+# Exclude unnecessary files from build
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-*"]
