@@ -38,8 +38,8 @@ extra_js:
             <h3 class="paper-title-main">
                 Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation
             </h3>
-            <a href="https://example.com/path-to-paper.pdf" target="_blank" rel="noopener noreferrer">
-                <div class="paper-badge-fancy">📄 Research Paper (Coming soon)</div>
+            <a href="https://arxiv.org/pdf/2509.22548" target="_blank" rel="noopener noreferrer">
+                <div class="paper-badge-fancy">📄 Research Paper</div>
             </a>
         </div>
         
@@ -66,9 +66,9 @@ extra_js:
         
         <!-- 论文链接 - 增强版 -->
         <div class="paper-links-enhanced">
-            <a href="https://arxiv.org/abs/2506.10741" class="paper-link-fancy arxiv-link" target="_blank">
+            <a href="https://arxiv.org/abs/2509.22548" class="paper-link-fancy arxiv-link" target="_blank">
                 <div class="link-icon-fancy">📚</div>
-                <span>arXiv (Coming soon)</span>
+                <span>arXiv</span>
                 <div class="link-shine"></div>
             </a>
             <a href="https://github.com/MIV-XJTU/JanusVLN" class="paper-link-fancy github-link" target="_blank">
@@ -240,7 +240,12 @@ extra_js:
         <div class="bibtex-container">
             <div class="bibtex-content">
                 <pre class="bibtex-text">
-                    ToDO
+                @article{zeng2025janusvlndecouplingsemanticsspatiality,
+                    title={JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation}, 
+                    author={Shuang Zeng and Dekang Qi and Xinyuan Chang and Feng Xiong and Shichao Xie and Xiaolong Wu and Shiyi Liang and Mu Xu and Xing Wei},
+                    journal={arXiv preprint arXiv:2509.22548},
+                    year={2025} 
+                }
                 </pre>
                 <button class="copy-button" onclick="copyBibtex()">
                     <span class="copy-icon">📋</span>
