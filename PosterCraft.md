@@ -76,19 +76,19 @@ extra_js:
                 <span>GitHub</span>
                 <div class="link-shine"></div>
             </a>
-            <a href="https://huggingface.co/PosterCraft/PosterCraft-v1_RL" class="paper-link-fancy huggingface-link" target="_blank">
+            <a href="https://www.modelscope.cn/models/misstl/JanusVLN_Base" class="paper-link-fancy huggingface-link" target="_blank">
                 <div class="link-icon-fancy">🤗</div>
-                <span>HuggingFace (Coming soon)</span>
+                <span>Model (JanusVLN_Base)</span>
                 <div class="link-shine"></div>
             </a>
-            <a href="https://huggingface.co/spaces/Ephemeral182/PosterCraft" class="paper-link-fancy demo-link" target="_blank">
+            <a href="https://www.modelscope.cn/models/misstl/JanusVLN_Extra" class="paper-link-fancy demo-link" target="_blank">
                 <div class="link-icon-fancy">🚀</div>
-                <span>ModelScope (Coming soon)</span>
+                <span>Model ((JanusVLN_Extra))</span>
                 <div class="link-shine"></div>
             </a>
-            <a href="https://huggingface.co/PosterCraft" class="paper-link-fancy dataset-link" target="_blank">
+            <a href="https://www.modelscope.cn/datasets/misstl/JanusVLN_Trajectory_Data" class="paper-link-fancy dataset-link" target="_blank">
                 <div class="link-icon-fancy">📊</div>
-                <span>Datasets (Coming soon)</span>
+                <span>Datasets</span>
                 <div class="link-shine"></div>
             </a>
             <a href="https://www.youtube.com/watch?v=U0IpLJOu48Y" class="paper-link-fancy video-link" target="_blank">
