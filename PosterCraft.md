@@ -83,7 +83,7 @@ extra_js:
             </a>
             <a href="https://www.modelscope.cn/models/misstl/JanusVLN_Extra" class="paper-link-fancy demo-link" target="_blank">
                 <div class="link-icon-fancy">🚀</div>
-                <span>Model ((JanusVLN_Extra))</span>
+                <span>Model (JanusVLN_Extra)</span>
                 <div class="link-shine"></div>
             </a>
             <a href="https://www.modelscope.cn/datasets/misstl/JanusVLN_Trajectory_Data" class="paper-link-fancy dataset-link" target="_blank">
