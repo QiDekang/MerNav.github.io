@@ -36,7 +36,7 @@ extra_js:
         <!-- Paper信息 - 紧凑布局 -->
         <div class="paper-info-compact">
             <h3 class="paper-title-main">
-                Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation
+                Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation [ICLR2026]
             </h3>
             <a href="https://arxiv.org/pdf/2509.22548" target="_blank" rel="noopener noreferrer">
                 <div class="paper-badge-fancy">📄 Research Paper</div>
