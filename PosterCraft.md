@@ -175,19 +175,19 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
          <iframe width="560" height="315" src="https://www.youtube.com/embed/oWku_paSfw4?si=5J6UUsshcxE0-bH5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         <!-- Plants Chosen Images -->
-        <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; margin-top: 20px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_0_color_sensor_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_1_color_sensor_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_2_color_sensor_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_3_color_sensor_chosen.png" style="margin-right: 10px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_0_color_sensor_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_1_color_sensor_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_2_color_sensor_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_3_color_sensor_chosen.png" style="width: 48%;">
         </div>
 
         <!-- Plants TopDown Images -->
-        <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; margin-top: 20px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_0_voxel_map_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_1_voxel_map_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_2_voxel_map_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_3_voxel_map_chosen.png" style="margin-right: 10px;">
+       <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_0_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_1_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_2_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_3_voxel_map_chosen.png" sstyle="width: 48%;">
         </div>
 
         <p class="label-text">MerNav Real Case 2 Object Football Third Perspective, <a href="https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" target="_blank">https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg</a></p>
@@ -196,21 +196,21 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
          <iframe width="560" height="315" src="https://www.youtube.com/embed/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
          
         <!-- Plants Chosen Images -->
-        <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; margin-top: 20px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_0_color_sensor_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_1_color_sensor_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_2_color_sensor_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_3_color_sensor_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_4_color_sensor_chosen.png" style="margin-right: 10px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_0_color_sensor_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_1_color_sensor_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_2_color_sensor_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_3_color_sensor_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_4_color_sensor_chosen.png" style="width: 48%;">
         </div>
 
         <!-- Plants TopDown Images -->
-        <div style="display: flex; flex-wrap: nowrap; overflow-x: auto; margin-top: 20px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_0_voxel_map_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_1_voxel_map_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_2_voxel_map_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_3_voxel_map_chosen.png" style="margin-right: 10px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_4_voxel_map_chosen.png" style="margin-right: 10px;">
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_0_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_1_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_2_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_3_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_4_voxel_map_chosen.png" style="width: 48%;">
         </div>
     </div>
 </div>
