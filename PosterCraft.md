@@ -171,14 +171,14 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
         <p class="label-text">MerNav Real Case 1 Object Plants Third Perspective, <a href="https://youtu.be/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv" target="_blank">https://youtu.be/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv</a></p>
         <p class="label-text">MerNav Real Case 1 Object Plants First Perspective, <a href="https://youtube.com/shorts/oWku_paSfw4?si=5J6UUsshcxE0-bH5" target="_blank">https://youtube.com/shorts/oWku_paSfw4?si=5J6UUsshcxE0-bH5</a></p>
         
-        <iframe width="560" height="315" src="https://youtu.be/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://youtube.com/shorts/oWku_paSfw4?si=5J6UUsshcxE0-bH5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/oWku_paSfw4?si=5J6UUsshcxE0-bH5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         <p class="label-text">MerNav Real Case 2 Object Football Third Perspective, <a href="https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" target="_blank">https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg</a></p>
         <p class="label-text">MerNav Real Case 2 Object Football First Perspective, <a href="https://youtube.com/shorts/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b" target="_blank">https://youtube.com/shorts/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b</a></p>
         
-        <iframe width="560" height="315" src="https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <iframe width="560" height="315" src="https://youtube.com/shorts/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
     </div>
 </div>
