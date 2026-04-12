@@ -167,14 +167,10 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
         <div class="overview-header">
             <h2 class="overview-title">Real-World Visualization</h2>
         </div>
-
-        <iframe width="560" height="315" src="https://youtu.be/iSkDKXJyQ7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://youtube.com/shorts/oWku_paSfw4?si=KPc6duo7PcZumw2t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://youtu.be/m3Nt2KkMI48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        
-        <iframe width="560" height="315" src="https://youtube.com/shorts/6Mcuh3PoCm0?si=kza0YCHbTJheuhyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://youtu.be/iSkDKXJyQ7Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://youtube.com/shorts/oWku_paSfw4?si=KPc6duo7PcZumw2t" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://youtu.be/m3Nt2KkMI48" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://youtube.com/shorts/6Mcuh3PoCm0?si=kza0YCHbTJheuhyE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         
         
     </div>
