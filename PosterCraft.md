@@ -184,10 +184,10 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
 
         <!-- Plants TopDown Images -->
        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_0_voxel_map_chosen.png" style="width: 48%;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_1_voxel_map_chosen.png" style="width: 48%;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_2_voxel_map_chosen.png" style="width: 48%;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_3_voxel_map_chosen.png" sstyle="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_0_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_1_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_2_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_3_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
         </div>
 
         <p class="label-text">MerNav Real Case 2 Object Football Third Perspective, <a href="https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" target="_blank">https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg</a></p>
@@ -206,11 +206,11 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
 
         <!-- Plants TopDown Images -->
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_0_voxel_map_chosen.png" style="width: 48%;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_1_voxel_map_chosen.png" style="width: 48%;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_2_voxel_map_chosen.png" style="width: 48%;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_3_voxel_map_chosen.png" style="width: 48%;">
-            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_4_voxel_map_chosen.png" style="width: 48%;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_0_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_1_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_2_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_3_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_4_voxel_map_chosen.png" style="width: 50% !important; height: auto;">
         </div>
     </div>
 </div>
