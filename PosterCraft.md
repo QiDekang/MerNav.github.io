@@ -168,18 +168,21 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
             <h2 class="overview-title">Real-World Visualization</h2>
         </div>
           <div class="overview-header">
-            <h3 class="overview-title">Real Case 1, Object: Plants</h3>
+            <h3 class="overview-title" style="font-size: 18px;">Real Case 1, Object Goal: Plants</h3>
         </div>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/plants.png" style="width: 98%;">
         </div>
-        
+
+        <!-- 
         <p class="label-text">MerNav Real Case 1 Object Plants Third Perspective, <a href="https://youtu.be/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv" target="_blank">https://youtu.be/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv</a></p>
         <p class="label-text">MerNav Real Case 1 Object Plants First Perspective, <a href="https://youtube.com/shorts/oWku_paSfw4?si=5J6UUsshcxE0-bH5" target="_blank">https://youtube.com/shorts/oWku_paSfw4?si=5J6UUsshcxE0-bH5</a></p>
+        -->
 
          <iframe width="560" height="315" src="https://www.youtube.com/embed/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
          <iframe width="560" height="315" src="https://www.youtube.com/embed/oWku_paSfw4?si=5J6UUsshcxE0-bH5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<!-- 
         <!-- Plants Chosen Images -->
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/chosen/step_0_color_sensor_chosen.png" style="width: 48%;">
@@ -195,19 +198,23 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_2_voxel_map_chosen.png" style="width: 48% !important; height: auto;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/TopDown/step_3_voxel_map_chosen.png" style="width: 48% !important; height: auto;">
         </div>
+-->
 
           <div class="overview-header">
-            <h3 class="overview-title">Real Case 2, Object: Football</h3>
+            <h3 class="overview-title" style="font-size: 18px;">Real Case 2, Object Goal: Football</h3>
         </div>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/football.png" style="width: 98%;">
         </div>
-         
+
+         <!-- 
         <p class="label-text">MerNav Real Case 2 Object Football Third Perspective, <a href="https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" target="_blank">https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg</a></p>
         <p class="label-text">MerNav Real Case 2 Object Football First Perspective, <a href="https://youtube.com/shorts/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b" target="_blank">https://youtube.com/shorts/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b</a></p>
+        -->
          <iframe width="560" height="315" src="https://www.youtube.com/embed/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
          <iframe width="560" height="315" src="https://www.youtube.com/embed/6Mcuh3PoCm0?si=kq_KCG4oCsUjZu1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-         
+
+        <!-- 
         <!-- Plants Chosen Images -->
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/chosen/step_0_color_sensor_chosen.png" style="width: 48%;">
@@ -225,6 +232,7 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_3_voxel_map_chosen.png" style="width: 48% !important; height: auto;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/TopDown/step_4_voxel_map_chosen.png" style="width: 48% !important; height: auto;">
         </div>
+        -->
     </div>
 </div>
 
