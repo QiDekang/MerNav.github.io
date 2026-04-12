@@ -27,7 +27,7 @@ layout: nil
 
     {% for post in site.posts %}
     <url>
-        <loc>{{ site.url }}{{ post.url }}</loc>
+      <loc>{{ post.url | absolute_url }}</loc>
     </url>
     {% endfor %}
 
