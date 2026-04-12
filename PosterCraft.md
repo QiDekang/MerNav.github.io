@@ -38,9 +38,9 @@ extra_js:
         <!-- Paper信息 - 紧凑布局 -->
         <div class="paper-info-compact">
             <h3 class="paper-title-main">
-                Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation [ICLR2026]
+                MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation
             </h3>
-            <a href="https://arxiv.org/pdf/2509.22548" target="_blank" rel="noopener noreferrer">
+            <a href="https://arxiv.org/pdf/2602.05467" target="_blank" rel="noopener noreferrer">
                 <div class="paper-badge-fancy">📄 Research Paper</div>
             </a>
         </div>
