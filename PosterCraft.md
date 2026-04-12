@@ -40,9 +40,11 @@ extra_js:
             <h3 class="paper-title-main">
                 MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation
             </h3>
+            <!--
             <a href="https://arxiv.org/pdf/2602.05467" target="_blank" rel="noopener noreferrer">
                 <div class="paper-badge-fancy">📄 Research Paper</div>
             </a>
+            -->
         </div>
         
         <!-- 作者信息 -->
@@ -57,8 +59,7 @@ extra_js:
                 <span class="author"><a>Mu Xu</a><sup>1</sup></span>,
             </p>
             <p class="affiliations">
-                <sup>1</sup>Amap, Alibaba Group,
-                <img src="images/janusvln/amap.png" alt="Amap Logo" style="height: 50px; background-color: white; padding: 3px; border-radius: 3px; margin-top: 5px;">
+                <sup>1</sup>Amap, Alibaba Group
             </p>
         </div>
         
@@ -106,7 +107,7 @@ extra_js:
     <div class="abstract-container">
         <h2 class="abstract-title">Abstract</h2>
         <p class="abstract-text">
-            Visual Language Navigation (VLN) is one of the fundamental capabilities for embodied intelligence and a critical challenge that urgently needs to be addressed. However, existing methods are still unsatisfactory in terms of both success rate (SR) and generalization: Supervised Fine-Tuning (SFT) approaches typically achieve higher SR, while Training-Free (TF) approaches often generalize better, but it is difficult to obtain both simultaneously. To this end, we propose a Memory-Execute-Review framework. It consists of three parts: a hierarchical memory module for providing information support, an execute module for routine decision-making and actions, and a review module for handling abnormal situations and correcting behavior. We validated the effectiveness of this framework on the Object Goal Navigation task. Across 4 datasets, our average SR achieved absolute improvements of 7% and 5% compared to all baseline methods under TF and Zero-Shot (ZS) settings, respectively. On the most commonly used HM3D_v0.1 and the more challenging open vocabulary dataset HM3D_OVON, the SR improved by 8% and 6%, under ZS settings. Furthermore, on the MP3D and HM3D_OVON datasets, our method not only outperformed all TF methods but also surpassed all SFT methods, achieving comprehensive leadership in both SR (5% and 2%) and generalization.
+            Visual Language Navigation (VLN) is one of the fundamental capabilities for embodied intelligence and a critical challenge that urgently needs to be addressed. However, existing methods are still unsatisfactory in terms of both success rate (SR) and generalization: Supervised Fine-Tuning (SFT) approaches typically achieve higher SR, while Training-Free (TF) approaches often generalize better, but it is difficult to obtain both simultaneously. To this end, we propose a Memory-Execute-Review framework. It consists of three parts: a hierarchical memory module for providing information support, an execute module for routine decision-making and actions, and a review module for handling abnormal situations and correcting behavior. We validated the effectiveness of this framework on the Object Goal Navigation task. Across 4 datasets, our average SR achieved absolute improvements of 7% and 5% compared to all baseline methods under TF and Zero-Shot (ZS) settings, respectively. On the most commonly used HM3D_v0.1 and the more challenging open vocabulary dataset HM3D_OVON, the SR improved by 8% and 6%, under ZS settings. Furthermore, on the MP3D and HM3D_OVON datasets, our method not only outperformed all TF methods but also surpassed all SFT methods, achieving comprehensive leadership in both SR (5% and 2%) and generalization. Additionally, we deployed the MerNav model on the humanoid robot and conducted experiments in the real world. The project address is: https://qidekang.github.io/MerNav.github.io/
         </p>
     </div>
 </div>
