@@ -40,11 +40,9 @@ extra_js:
             <h3 class="paper-title-main">
                 MerNav: A Highly Generalizable Memory-Execute-Review Framework for Zero-Shot Object Goal Navigation
             </h3>
-            <!--
             <a href="https://arxiv.org/pdf/2602.05467" target="_blank" rel="noopener noreferrer">
                 <div class="paper-badge-fancy">📄 Research Paper</div>
             </a>
-            -->
         </div>
         
         <!-- 作者信息 -->
@@ -65,13 +63,14 @@ extra_js:
         </div>
         
         <!-- 论文链接 - 增强版 -->
+        <!--
         <div class="paper-links-enhanced">
             <a href="https://arxiv.org/abs/2602.05467" class="paper-link-fancy arxiv-link" target="_blank">
                 <div class="link-icon-fancy">📚</div>
                 <span>arXiv</span>
                 <div class="link-shine"></div>
             </a>
-            <!--
+            
             <a href="https://github.com/MIV-XJTU/JanusVLN" class="paper-link-fancy github-link" target="_blank">
                 <div class="link-icon-fancy">💻</div>
                 <span>GitHub</span>
@@ -98,8 +97,9 @@ extra_js:
                 <span>Demo Video</span>
                 <div class="link-shine"></div>
             </a>
-            -->
+            
         </div>
+        -->
     </div>
 </div>
 
@@ -180,7 +180,7 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
          <iframe width="560" height="315" src="https://www.youtube.com/embed/oWku_paSfw4?si=5J6UUsshcxE0-bH5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-          <div class="overview-header">
+          <div class="overview-header" style="margin-top: 50px;">
             <h3 class="overview-title" style="font-size: 36px;">Real Case 2, Object Goal: Football</h3>
         </div>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
