@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qidekang.github.io/MerNav.github.io/sitemap.xml
