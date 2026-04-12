@@ -111,20 +111,6 @@ extra_js:
     </div>
 </div>
 
-<!-- Video Showcase Section -->
-<div class="video-showcase-section" id="video-showcase">
-    <div class="video-showcase-container">
-        <div class="video-header">
-            <h2 class="video-title">Demo Video</h2>
-        </div>
-
-            <div class="video-center">
-            <iframe width="1000" height="600" src="https://www.youtube.com/embed/SfrkZks_XE8?si=lWiV3Cv8Pkf8l6PN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-            </div>
-
-    </div>
-</div>
-
 <div class="what-is-section" id="what-is">
     <div class="what-is-container">
         <h2 class="what-is-title">Approach</h2>
@@ -182,47 +168,18 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
             <h2 class="overview-title">Real-World Visualization</h2>
         </div>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/aJXpWluI1-w?si=350fBzfNH79XocD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://youtu.be/iSkDKXJyQ7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/jB4CL55pJ3c?si=V4WIUZoqUs-kTj_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://youtube.com/shorts/oWku_paSfw4?si=KPc6duo7PcZumw2t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/QLuO0ce8Qv0?si=kFpC0EoOxMca4Lq5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://youtu.be/m3Nt2KkMI48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/RPJ_i1YAYek?si=fvHxrbsy7J0Vbk2z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/7UuqnfXKQbE?si=WmEulBJUe3BA8yc7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/R4fwQuK5t-s?si=xuXGoZ4FRzvWHZHt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://youtube.com/shorts/6Mcuh3PoCm0?si=kza0YCHbTJheuhyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         
         
     </div>
 </div>
 
-
-
-<div class="technical-overview-section" id="overview">
-    <div class="overview-container">
-        <div class="overview-header">
-            <h2 class="overview-title">VLN-CE Visualization</h2>
-        </div>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Gt48PnnfNdc?si=t8594wB2u3Laz2Di" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ac7jSX2ryPg?si=-IWl65Q2VnX--R0P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/s3lv3pr9ObY?si=RhLzYbPAiNOugU2H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/0tBRSu-5-SA?si=AOZXPXBB7137bVPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Fun5oPmZqZs?si=xcKxhZgM9oALE5eL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/KqBtCfiAcGc?si=rHk0TgmNSRFa0W1W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-        
-        
-    </div>
-</div>
 
 
 
