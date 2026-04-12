@@ -1,6 +1,7 @@
 # JanusVLN Project Configuration
-title: JanusVLN
-url: https://github.com/MIV-XJTU/JanusVLN
+title: MerNav
+url: https://qidekang.github.io
+baseurl: /MerNav.github.io
 
 # Site settings
 timezone: UTC
@@ -17,13 +18,13 @@ kramdown:
 
 # Navigation
 links:
-  - title: JanusVLN
-    url: /JanusVLN/
+  - title: MerNav
+    url: /
   - title: GitHub
-    url: https://github.com/MIV-XJTU/JanusVLN
+    url: https://github.com/QiDekang/MerNav.github.io
     external: true
   - title: Paper
-    url: https://github.com/MIV-XJTU/JanusVLN # Placeholder, user to update with arXiv link
+    url: https://arxiv.org/abs/2602.05467 # Placeholder, user to update with arXiv link
     external: true
 
 # Exclude unnecessary files from build
