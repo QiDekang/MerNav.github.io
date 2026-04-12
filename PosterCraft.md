@@ -141,7 +141,8 @@ extra_js:
                 <div class="demo-row-background">
                     <div class="demo-label-horizontal">
                         
-                        <span class="label-text">The framework of JanusVLN. Given an RGB-only video stream and navigation instructions, JanusVLN utilizes a dual-encoder to separately extract visual-semantic and spatial-geometric features. It concurrently caches historical key-values from initial and recent sliding window into a dual implicit memory to facilitate feature reuse and prevent redundant computation. Finally, these two complementary features are fused and fed into LLM to predict the next action.</span>
+                        <span class="label-text">The framework of MerNav. Memory-Execute-Review. The Memory module provides priors and informational support for decision-making; under nominal conditions, task completion is handled by the Execute module. Meanwhile, the Review module continuously monitors the execution process from an independent perspective and, upon detecting
+anomalies or deviations, triggers corresponding corrective modes to rectify behavior.</span>
                     </div>
                     
                 </div>
