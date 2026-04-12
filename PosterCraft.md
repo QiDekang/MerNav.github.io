@@ -170,6 +170,9 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
           <div class="overview-header">
             <h3 class="overview-title">Real Case 1, Object: Plants</h3>
         </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/plants.png" style="width: 98%;">
+        </div>
         
         <p class="label-text">MerNav Real Case 1 Object Plants Third Perspective, <a href="https://youtu.be/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv" target="_blank">https://youtu.be/iSkDKXJyQ7Y?si=LfrWYhd0VVDyAEPv</a></p>
         <p class="label-text">MerNav Real Case 1 Object Plants First Perspective, <a href="https://youtube.com/shorts/oWku_paSfw4?si=5J6UUsshcxE0-bH5" target="_blank">https://youtube.com/shorts/oWku_paSfw4?si=5J6UUsshcxE0-bH5</a></p>
@@ -195,6 +198,9 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
 
           <div class="overview-header">
             <h3 class="overview-title">Real Case 2, Object: Football</h3>
+        </div>
+        <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
+            <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/football.png" style="width: 98%;">
         </div>
          
         <p class="label-text">MerNav Real Case 2 Object Football Third Perspective, <a href="https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg" target="_blank">https://youtu.be/m3Nt2KkMI48?si=VtmrM67qMBHyzMQg</a></p>
