@@ -3,6 +3,16 @@ title: MerNav
 url: https://qidekang.github.io
 baseurl: /MerNav.github.io
 
+# SEO 相关 设置
+description: "MerNav: A Highly Generalizable Memory–Execute–Review Framework for Zero-Shot Object Goal Navigation"
+keywords: "MerNav, Object Goal, Zero‑Shot, AI, Navigation, VLN"
+
+# Open Graph (社交分享/搜索预览)
+og_title: "MerNav: A Highly Generalizable Memory–Execute–Review Framework for Zero-Shot Object Goal Navigation"
+og_description: "MerNav: A Highly Generalizable Memory–Execute–Review Framework for Zero-Shot Object Goal Navigation. MerNav框架针对零次目标导航任务提出记忆‑执行‑回顾机制，提升泛化能力。"
+og_type: "website"
+og_image: "/assets/og_image.png"
+
 # Site settings
 timezone: UTC
 future: true
