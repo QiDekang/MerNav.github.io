@@ -172,6 +172,7 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
           <div class="overview-header">
             <h3 class="overview-title" style="font-size: 36px;">Real Case 1, Object Goal: Plants</h3>
         </div>
+        <p class="label-text">MerNav's decision-making process for finding object goal 'plants', <a href="https://github.com/QiDekang/MerNav.github.io/blob/main/images/real_case/palnt/plants.png" target="_blank">https://github.com/QiDekang/MerNav.github.io/blob/main/images/real_case/palnt/plants.png</a></p>
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/palnt/plants.png" style="width: 98%;">
         </div>
@@ -183,6 +184,9 @@ anomalies or deviations, triggers corresponding corrective modes to rectify beha
           <div class="overview-header" style="margin-top: 50px;">
             <h3 class="overview-title" style="font-size: 36px;">Real Case 2, Object Goal: Football</h3>
         </div>
+        
+        <p class="label-text">MerNav's decision-making process for finding object goal 'football', <a href="https://github.com/QiDekang/MerNav.github.io/blob/main/images/real_case/football/football.png" target="_blank">https://github.com/QiDekang/MerNav.github.io/blob/main/images/real_case/football/football.png</a></p>
+        
         <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
             <img src="https://raw.githubusercontent.com/QiDekang/MerNav.github.io/main/images/real_case/football/football.png" style="width: 98%;">
         </div>
